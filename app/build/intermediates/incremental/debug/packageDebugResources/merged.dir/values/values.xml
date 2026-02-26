@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#6650A4</color>
+    <string name="app_name">Loja Simulada</string>
+    <string name="gcm_defaultSenderId" translatable="false">19365375802</string>
+    <string name="google_api_key" translatable="false">AIzaSyCT-FYGoIGGPR7IXdXteuYibWimY9JaJuw</string>
+    <string name="google_app_id" translatable="false">1:19365375802:android:fcd8c8467c1d25c87b2a03</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCT-FYGoIGGPR7IXdXteuYibWimY9JaJuw</string>
+    <string name="google_storage_bucket" translatable="false">loja-simulada-precificacao.firebasestorage.app</string>
+    <string name="project_id" translatable="false">loja-simulada-precificacao</string>
+    <style name="Theme.LojaSimulada" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,67 @@
+br.com.precificacao.app-lifecycle-livedata-core-ktx-2.8.7-0 C:\Users\gusta\.gradle\caches\transforms-4\048c8fc89d5d1caa10fbf7c3e6103d32\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+br.com.precificacao.app-annotation-experimental-1.4.1-1 C:\Users\gusta\.gradle\caches\transforms-4\0605aadaead09351ce3fb6cc3d737371\transformed\annotation-experimental-1.4.1\res
+br.com.precificacao.app-ui-tooling-data-release-2 C:\Users\gusta\.gradle\caches\transforms-4\07cf5b255f467b9e754d5d5aad2de997\transformed\ui-tooling-data-release\res
+br.com.precificacao.app-animation-release-3 C:\Users\gusta\.gradle\caches\transforms-4\0a5dc961dbda998cc83c22400f03015d\transformed\animation-release\res
+br.com.precificacao.app-navigation-compose-2.8.4-4 C:\Users\gusta\.gradle\caches\transforms-4\10cd6a877df75ff91fec460e719f0fd6\transformed\navigation-compose-2.8.4\res
+br.com.precificacao.app-lifecycle-viewmodel-ktx-2.8.7-5 C:\Users\gusta\.gradle\caches\transforms-4\1563d8930b7b89b0f517849a631276be\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+br.com.precificacao.app-lifecycle-runtime-ktx-release-6 C:\Users\gusta\.gradle\caches\transforms-4\15a5e248ba27dd8b6ab2d670f95c5083\transformed\lifecycle-runtime-ktx-release\res
+br.com.precificacao.app-material3-release-7 C:\Users\gusta\.gradle\caches\transforms-4\1aa2c0d129328eee5ca3982f12af6d18\transformed\material3-release\res
+br.com.precificacao.app-navigation-runtime-2.8.4-8 C:\Users\gusta\.gradle\caches\transforms-4\1f2f9fe35324a9aa155e541338c28e77\transformed\navigation-runtime-2.8.4\res
+br.com.precificacao.app-runtime-saveable-release-9 C:\Users\gusta\.gradle\caches\transforms-4\203ecb0dc9c91eb717bd41b2cfffc7cf\transformed\runtime-saveable-release\res
+br.com.precificacao.app-ui-graphics-release-10 C:\Users\gusta\.gradle\caches\transforms-4\22b89f00332c68bd373746aabf247d2b\transformed\ui-graphics-release\res
+br.com.precificacao.app-lifecycle-viewmodel-savedstate-2.8.7-11 C:\Users\gusta\.gradle\caches\transforms-4\24b20a4b1e2c3e8dad89ee755901ffbf\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+br.com.precificacao.app-animation-core-release-12 C:\Users\gusta\.gradle\caches\transforms-4\24f72b0e8d86353e3fe9c84778afd422\transformed\animation-core-release\res
+br.com.precificacao.app-profileinstaller-1.3.1-13 C:\Users\gusta\.gradle\caches\transforms-4\25d6ae39106bbd834d1f666bbcdd7fad\transformed\profileinstaller-1.3.1\res
+br.com.precificacao.app-navigation-runtime-ktx-2.8.4-14 C:\Users\gusta\.gradle\caches\transforms-4\27483b8edb138af8b4af96a2db4bc42b\transformed\navigation-runtime-ktx-2.8.4\res
+br.com.precificacao.app-datastore-release-15 C:\Users\gusta\.gradle\caches\transforms-4\31cf8357abb814c762a41ae15bf0513a\transformed\datastore-release\res
+br.com.precificacao.app-firebase-common-21.0.0-16 C:\Users\gusta\.gradle\caches\transforms-4\351761f5ea45fe0091f917b87c7c8d0b\transformed\firebase-common-21.0.0\res
+br.com.precificacao.app-material-ripple-release-17 C:\Users\gusta\.gradle\caches\transforms-4\4059f24430acd9b7688d77f5d196e88b\transformed\material-ripple-release\res
+br.com.precificacao.app-navigation-common-ktx-2.8.4-18 C:\Users\gusta\.gradle\caches\transforms-4\4b7779d83370f701bf6ff68fe01c5b3a\transformed\navigation-common-ktx-2.8.4\res
+br.com.precificacao.app-lifecycle-viewmodel-release-19 C:\Users\gusta\.gradle\caches\transforms-4\4dcf7068e975735e02180254ff7d0167\transformed\lifecycle-viewmodel-release\res
+br.com.precificacao.app-ads-adservices-java-1.0.0-beta05-20 C:\Users\gusta\.gradle\caches\transforms-4\50b3042551f53e6d99220aebf967ed0b\transformed\ads-adservices-java-1.0.0-beta05\res
+br.com.precificacao.app-play-services-basement-18.4.0-21 C:\Users\gusta\.gradle\caches\transforms-4\65c3237752c52ff7b0628dfadde14314\transformed\play-services-basement-18.4.0\res
+br.com.precificacao.app-ui-util-release-22 C:\Users\gusta\.gradle\caches\transforms-4\682d78da5d60901d6d8e18b7b7de9b3e\transformed\ui-util-release\res
+br.com.precificacao.app-ui-text-release-23 C:\Users\gusta\.gradle\caches\transforms-4\6a9ace1af20e6dbec3bb80b22a7357c8\transformed\ui-text-release\res
+br.com.precificacao.app-activity-1.9.3-24 C:\Users\gusta\.gradle\caches\transforms-4\7025daacf030f79c0ef54bfb39c55844\transformed\activity-1.9.3\res
+br.com.precificacao.app-foundation-layout-release-25 C:\Users\gusta\.gradle\caches\transforms-4\76f30401d5763d75604d4873eb8ac476\transformed\foundation-layout-release\res
+br.com.precificacao.app-navigation-common-2.8.4-26 C:\Users\gusta\.gradle\caches\transforms-4\77a3cbe919fca9a86452ac7e2bb4f31e\transformed\navigation-common-2.8.4\res
+br.com.precificacao.app-material-icons-extended-release-27 C:\Users\gusta\.gradle\caches\transforms-4\7e7bad6a086a67239c538c017df32959\transformed\material-icons-extended-release\res
+br.com.precificacao.app-lifecycle-viewmodel-compose-release-28 C:\Users\gusta\.gradle\caches\transforms-4\824197c301261908448c6de98a2cd40f\transformed\lifecycle-viewmodel-compose-release\res
+br.com.precificacao.app-play-services-base-18.5.0-29 C:\Users\gusta\.gradle\caches\transforms-4\8334adbe374b91a20f9ad74723201502\transformed\play-services-base-18.5.0\res
+br.com.precificacao.app-foundation-release-30 C:\Users\gusta\.gradle\caches\transforms-4\8394e001c9caff07feaf3fc41aa14fe9\transformed\foundation-release\res
+br.com.precificacao.app-ui-unit-release-31 C:\Users\gusta\.gradle\caches\transforms-4\844dd5376ccb98abda5848be44578c38\transformed\ui-unit-release\res
+br.com.precificacao.app-lifecycle-livedata-core-2.8.7-32 C:\Users\gusta\.gradle\caches\transforms-4\9326f5ae483d7b97eab5d8711d5fb1dc\transformed\lifecycle-livedata-core-2.8.7\res
+br.com.precificacao.app-lifecycle-process-2.8.7-33 C:\Users\gusta\.gradle\caches\transforms-4\969c49bb7c28c1090cff1268a132f34c\transformed\lifecycle-process-2.8.7\res
+br.com.precificacao.app-runtime-release-34 C:\Users\gusta\.gradle\caches\transforms-4\989b8d4d6ad03044ee568ef9a74d4537\transformed\runtime-release\res
+br.com.precificacao.app-core-runtime-2.2.0-35 C:\Users\gusta\.gradle\caches\transforms-4\9929d1c3e3c700bff13ccc05798d784a\transformed\core-runtime-2.2.0\res
+br.com.precificacao.app-startup-runtime-1.1.1-36 C:\Users\gusta\.gradle\caches\transforms-4\9a192d60f5849eb3846a8f246bc77d8f\transformed\startup-runtime-1.1.1\res
+br.com.precificacao.app-activity-compose-1.9.3-37 C:\Users\gusta\.gradle\caches\transforms-4\9d180752a2a02762e9d496d2cec06f51\transformed\activity-compose-1.9.3\res
+br.com.precificacao.app-graphics-path-1.0.1-38 C:\Users\gusta\.gradle\caches\transforms-4\9fb2c54f7cafc19dc8b5d5c6d51f354a\transformed\graphics-path-1.0.1\res
+br.com.precificacao.app-core-ktx-1.13.1-39 C:\Users\gusta\.gradle\caches\transforms-4\b0539684a658094c505aa8ed9c23c6f7\transformed\core-ktx-1.13.1\res
+br.com.precificacao.app-customview-poolingcontainer-1.0.0-40 C:\Users\gusta\.gradle\caches\transforms-4\b21c275b0e3ba96ab8998bcb7f466d3b\transformed\customview-poolingcontainer-1.0.0\res
+br.com.precificacao.app-savedstate-1.2.1-41 C:\Users\gusta\.gradle\caches\transforms-4\b63f73cf794bf15046c4bec4c64b20e5\transformed\savedstate-1.2.1\res
+br.com.precificacao.app-core-1.13.1-42 C:\Users\gusta\.gradle\caches\transforms-4\b81c00c107247fdbcd2f6b16ba22155c\transformed\core-1.13.1\res
+br.com.precificacao.app-ui-release-43 C:\Users\gusta\.gradle\caches\transforms-4\be0bb496d641c105472a4065f33781f7\transformed\ui-release\res
+br.com.precificacao.app-lifecycle-runtime-compose-release-44 C:\Users\gusta\.gradle\caches\transforms-4\c2268508d115759453f5c51ba4128b59\transformed\lifecycle-runtime-compose-release\res
+br.com.precificacao.app-activity-ktx-1.9.3-45 C:\Users\gusta\.gradle\caches\transforms-4\d14ff9ba24d5182d05b9b940027b4c59\transformed\activity-ktx-1.9.3\res
+br.com.precificacao.app-ui-geometry-release-46 C:\Users\gusta\.gradle\caches\transforms-4\d5e79c658c0b43383fcb444cb3088b26\transformed\ui-geometry-release\res
+br.com.precificacao.app-play-services-measurement-api-22.1.2-47 C:\Users\gusta\.gradle\caches\transforms-4\d7e4650095e073a4c658f821fe89e41f\transformed\play-services-measurement-api-22.1.2\res
+br.com.precificacao.app-material-icons-core-release-48 C:\Users\gusta\.gradle\caches\transforms-4\d7fb63d408f400169c9249ee2693e041\transformed\material-icons-core-release\res
+br.com.precificacao.app-emoji2-1.3.0-49 C:\Users\gusta\.gradle\caches\transforms-4\d7ff1c06536bd22347a4846bf480ce12\transformed\emoji2-1.3.0\res
+br.com.precificacao.app-ui-tooling-release-50 C:\Users\gusta\.gradle\caches\transforms-4\da39851955adaf495d6552ed47c90b17\transformed\ui-tooling-release\res
+br.com.precificacao.app-lifecycle-livedata-2.8.7-51 C:\Users\gusta\.gradle\caches\transforms-4\de04c866f34e75c8ad454ed482b7f489\transformed\lifecycle-livedata-2.8.7\res
+br.com.precificacao.app-datastore-preferences-release-52 C:\Users\gusta\.gradle\caches\transforms-4\de7d0f4476ffab62ce9cd82efd0698d4\transformed\datastore-preferences-release\res
+br.com.precificacao.app-ui-tooling-preview-release-53 C:\Users\gusta\.gradle\caches\transforms-4\e0be5e95c249236f92852b6bd53d2b7f\transformed\ui-tooling-preview-release\res
+br.com.precificacao.app-material-release-54 C:\Users\gusta\.gradle\caches\transforms-4\e6499fcc8ca9f26705d22c7f5b0f3085\transformed\material-release\res
+br.com.precificacao.app-savedstate-ktx-1.2.1-55 C:\Users\gusta\.gradle\caches\transforms-4\e986792c453b8277264465b1f62b7709\transformed\savedstate-ktx-1.2.1\res
+br.com.precificacao.app-datastore-core-release-56 C:\Users\gusta\.gradle\caches\transforms-4\f6534f52d44b89d49fb777f9bb6c4244\transformed\datastore-core-release\res
+br.com.precificacao.app-ads-adservices-1.0.0-beta05-57 C:\Users\gusta\.gradle\caches\transforms-4\f911297b229d83931b14baec420b318b\transformed\ads-adservices-1.0.0-beta05\res
+br.com.precificacao.app-lifecycle-runtime-release-58 C:\Users\gusta\.gradle\caches\transforms-4\faff10b29ceae4c55dab0dd4933744ef\transformed\lifecycle-runtime-release\res
+br.com.precificacao.app-pngs-59 D:\Workspace\Projeto Precificaçao\app\build\generated\res\pngs\debug
+br.com.precificacao.app-res-60 D:\Workspace\Projeto Precificaçao\app\build\generated\res\processDebugGoogleServices
+br.com.precificacao.app-resValues-61 D:\Workspace\Projeto Precificaçao\app\build\generated\res\resValues\debug
+br.com.precificacao.app-packageDebugResources-62 D:\Workspace\Projeto Precificaçao\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+br.com.precificacao.app-packageDebugResources-63 D:\Workspace\Projeto Precificaçao\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+br.com.precificacao.app-debug-64 D:\Workspace\Projeto Precificaçao\app\build\intermediates\merged_res\debug\mergeDebugResources
+br.com.precificacao.app-debug-65 D:\Workspace\Projeto Precificaçao\app\src\debug\res
+br.com.precificacao.app-main-66 D:\Workspace\Projeto Precificaçao\app\src\main\res
