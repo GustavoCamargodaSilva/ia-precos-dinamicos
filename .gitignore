@@ -64,6 +64,33 @@ node_modules/
 
 # dotenv environment variables file
 .env
+.env.*
 
 # dataconnect generated files
 .dataconnect
+
+# Android / Gradle
+local.properties
+
+# Firebase credentials
+google-services.json
+**/google-services.json
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+signing.properties
+
+# Service account keys
+service-account*.json
+firebase-key*.json
+*-credentials.json
+
+# IDE
+.idea/
+*.iml
